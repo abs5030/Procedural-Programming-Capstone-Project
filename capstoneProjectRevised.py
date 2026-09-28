@@ -1,6 +1,6 @@
 #Abigail Andre-St Fleur
-#11/24/25
 #Major Indecision Capstone project
+#Procedural Programming - 2025
 import math
 
 def main():
